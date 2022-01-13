@@ -4,6 +4,6 @@
 |---|---|
 |Bimbim|3|
 |Flöke|1|
-|Forti|2|
-|Hanni|1|
+|Forti|4|
+|Hanni|2|
 |Torbi|2|

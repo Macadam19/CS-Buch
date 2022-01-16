@@ -3,7 +3,7 @@
 |Person|Counter|
 |---|---|
 |Bimbim|3|
-|Flöke|2|
-|Forti|4|
+|Flöke|3|
+|Forti|5|
 |Hanni|2|
 |Torbi|2|

@@ -2,8 +2,8 @@
 
 |Person|Counter|
 |---|---|
-|Bimbim|6|
+|Bimbim|7|
 |Flöke|3|
-|Forti|7|
+|Forti|10|
 |Hanni|4|
-|Torbi|5|
+|Torbi|6|
